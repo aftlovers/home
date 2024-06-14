@@ -1,0 +1,96 @@
+iQOO,[PD1824],gambarvivos1projpg,
+iQOO Neo,[PD1936],gambarvivos1projpg,
+iQOO Neo 3 5G,[PD1981],gambarvivos1projpg,
+iQOO Pro,[PD1916],gambarvivos1projpg,
+iQOO U1,[PD2023],gambarvivos1projpg,
+iQOO U1X,[PD2065],gambarvivos1projpg,
+iQOO U3X,[PD2106],gambarvivos1projpg,
+iQOO Z1X,[PD2012],gambarvivos1projpg,
+iQOO 3,[PD1955F],gambarvivos1projpg,
+iQOO 5,[PD2024],gambarvivos1projpg,
+iQOO 5 Pro,[PD2025],gambarvivos1projpg,
+iQOO 7,[PD2055F],gambarvivos1projpg,
+iQOO 7 Legend,[PD2049F],gambarvivos1projpg,
+Nex A,[PD1806],gambarvivos1projpg,
+Nex S,[PD1805F],gambarvivos1projpg,
+Nex 2,[PD1821F],gambarvivos1projpg,
+Nex 3,[PD1924F],gambarvivos1projpg,
+S1 Pro,[PD1945F],gambarvivos1projpg,
+S1 Prime,[PD1945GF],g.jpg
+S5,[PD1932],gambarvivos1projpg,
+T1,[PD2115],gambarvivos1projpg,
+U1,[PD1818],g.jpg
+U3,[PD1941],g.jpg
+U3X | U10,[PD1928F],g.jpg
+U20,[PD1941F],g.jpg
+V1,[PD1502F],gambarvivov15projpg,
+V1 Max,[PD1503F],gambarvivov15projpg,
+V3,[PD1524F],gambarvivov15projpg,
+V3 Max,[PD1523F],gambarvivov15projpg,
+V5 Plus,[PD1624F],gambarvivov15projpg,
+V7 Plus,[PD1708F],gambarvivov15projpg,
+V9,[PD1730F],gambarvivov15projpg,
+V9 China,[PD1730D],gambarvivov15projpg,
+V9 Pro,[PD1730CF],gambarvivov15projpg,
+V9 Youth,[PD1730BF],gambarvivov15projpg,
+V11 Pro,[PD1814F],gambarvivov15projpg,
+V15 Pro,[PD1832F],gambarvivov15projpg,
+V17,[PD1948F],gambar.jpg
+V17 Pro,[PD1931F],g.jpg
+V19,[PD1969F],g.jpg
+V19 Neo,[PD1948F],gambar.jpg
+V20,[PD2039F],g.jpg
+V20 Pro,[PD2020F],g.jpg
+V20 SE,[PD2038F],g.jpg
+V20 2021,[PD2067F],g.jpg
+V21 4G | V21E 4G,[PD2107F],j.jpg
+Xplay 3S,[PD1303F],g.jpg
+Xshot,[PD1302F],g.jpg
+X5,[PD1401F],g.jpg
+X5 Max,[PD1408F],g.jpg
+X5 Pro,[PD1421F],g.jpg
+X7,[PD1602],g.jpg
+X7 Plus,[PD1603],g.jpg
+X20,[PD1709F],g.jpg
+X20 Plus,[PD1710F],g.jpg
+X21,[PD1728F],g.jpg
+X23 [SDM670],[PD1809],g.jpg
+X23 [SDM710],[PD1809],g.jpg
+X27,[PD1829],g.jpg
+X50,[PD2006F],g.jpg
+X50 5G,[PD2001F],g.jpg
+X50 Pro 5G,[PD2005F],g.jpg
+X50 Lite,[PD1928F],g.jpg
+X60,[PD2046F],g.jpg
+X60 Pro,[PD2059F],g.jpg
+Y9S,[PD1945F],gambarvivos1projpg,
+Y11 | Y12i,[PD1930F],g.jpg
+Y11S,[PD2042F],g.jpg
+Y12A | Y12S,[PD2060F],g.jpg
+Y20 | Y20I | Y20S,[PD2034F],gambarvivoy20jpg,
+Y20A,[PD2060F],gambarvivoy20jpg,
+Y20T,[PD2093F],gambarvivoy20jpg,
+Y21L,[PD1309F],gambarvivoy20jpg,
+Y25,[PD1309F],gambarvivoy20jpg,
+Y27,[PD1410F],gambarvivoy20jpg,
+Y31 2021,[PD2050F],gambarvivoy20jpg,
+Y31L,[PD1505F],gambarvivoy20jpg,
+Y35,[PD1502F],gambarvivov15projpg,
+Y37,[PD1503F],gambarvivov15projpg,
+Y50T 2021,[PD2023E],h.jpg
+Y51 | Y51L,[PD1510F],g.jpg
+Y51 2020,[PD2044F],g.jpg
+Y51A | Y51S,[PD2050F],gambarvivoy20jpg,
+Y52S,[PD2106],gambarvivos1projpg,
+Y53,[PD1628F],g.jpg
+Y55 | Y55L,[PD1613F],g.jpg
+Y55S,[PD1613BF],g.jpg
+Y65,[PD1621BF],g.jpg
+Y70,[PD2038F],g.jpg
+Y71,[PD1731F],k.jpg
+Y85,[PD1730BF],gambarvivov15projpg,
+Y91,[PD1818EF],k.jpg
+Y93 | Y95,[PD1818F-BF],j.jpg
+Z1 Pro,[PD1911F],g.jpg
+Z5i,[PD1941],g.jpg
+Z5x,[PD1911F],g.jpg

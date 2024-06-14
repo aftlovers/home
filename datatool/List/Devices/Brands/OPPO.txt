@@ -1,0 +1,47 @@
+A32,[PDVM00],g.jpg
+A33,[CPH2137],g.jpg
+A53,[CPH2127],g.jpg
+A53S,[CPH2135 - CPH2139],g.jpg
+A57,[CPH1701],g.jpg
+A73,[CPH2095],g.jpg
+A74,[CPH2219],g.jpg
+A76,[CPH2375],g.jpg
+A95,[CPH2365],k.jpg
+A96,[CPH2333],k.jpg
+F1,[F1F],j.jpg
+F3 Plus,[CPH1611 - CPH1613],h.jpg
+F17,[CPH2095],g.jpg
+F19,[CPH2219],g.jpg
+F19S,[CPH2223],g.jpg
+F21 Pro,[CPH2363],g.jpg
+Find N 5G,[PEUM00],j.jpg
+Find X2,[CPH2023],k.jpg
+Find X2 Lite,[CPH2005],k.jpg
+Find X2 Neo,[CPH2009],k.jpg
+Find X2 Pro,[CPH2025],k.jpg
+Find X3,[PEDM00],j.jpg
+Find X3 Lite,[CPH2145],k.jpg
+Find X3 Neo 5G,[CPH2207],k.jpg
+Find X5 Pro,[CPH2305],k.jpg
+K9S,[PERM10],s.jpg
+K10,[CPH2373],j.jpg
+Mirror 5,[A51W],j.jpg
+Neo 7,[A33F],j.jpg
+Neo 9,[A37FW],j.jpg
+Reno 3 Pro 5G,[PCRM00],k.jpg
+Reno 4 4G,[CPH2113],k.jpg
+Reno 4 5G,[CPH2091],k.jpg
+Reno 4 Pro 4G,[CPH2109],k.jpg
+Reno 4 Pro 5G,[CPH2089],k.jpg
+Reno 5 4G,[CPH2159],k.jpg
+Reno 5 5G,[CPH2145],k.jpg
+Reno 6 4G,[CPH2235],k.jpg
+Reno 6 Lite,[CPH2365],k.jpg
+Reno 6 Pro 5G,[CPH2247],k.jpg
+Reno 6 Pro+ 5G,[PEUM00],k.jpg
+Reno 7,[CPH2363],g.jpg
+Reno 10X Zoom,[CPH1919],g.jpg
+R7F,[R7FW],j.jpg
+R9 Plus,[X9079],j.jpg
+R9S,[CPH1607],j.jpg
+R9S Plus,[CPH1611 - CPH1613],h.jpg

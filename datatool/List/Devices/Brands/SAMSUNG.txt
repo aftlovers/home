@@ -1,0 +1,9 @@
+A01,[SM-A015F],g.jpg
+A02s,[SM-A025F],g.jpg
+A11,[SM-A115F],g.jpg
+A70,[SM-A705F],g.jpg
+J4 Plus,[SM-J415F],g.jpg
+J6 Plus,[SM-J610G],g.jpg
+M01,[SM-M015G],g.jpg
+M02s,[SM-M025F],g.jpg
+M11,[SM-M115F],g.jpg

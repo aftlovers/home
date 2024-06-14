@@ -1,0 +1,53 @@
+Mi 4i,[Ferrari],gambarvivos1pro.jpg
+Mi 5,[Gemini],gambarvivos1pro.jpg
+Mi 5S,[Capricorn],gambarvivos1pro.jpg
+Mi 5S Plus,[Natrium],gambarvivos1pro.jpg
+Mi 5X,[Tiffany],gambarvivos1pro.jpg
+Mi 6,[Sagit],gambarvivos1pro.jpg
+Mi 6X,[Wayne],gambarvivos1pro.jpg
+Mi 8,[Dipper],gambarvivos1pro.jpg
+Mi 8 Explorer,[Ursa],gambarvivos1pro.jpg
+Mi 8 Lite,[Platina],gambarvivos1pro.jpg
+Mi 8 Pro,[Equuleus],gambarvivos1pro.jpg
+Mi 8 SE,[Sirius],gambarvivos1pro.jpg
+Mi A1,[Tissot],gambarvivos1pro.jpg
+Mi A2,[Jasmine],gambarvivos1pro.jpg
+Mi Mix,[Lithium],gambarvivos1pro.jpg
+Mi Max 2,[Oxygen],gambarvivos1pro.jpg
+Mi Mix 2,[Chiron],gambarvivos1pro.jpg
+Mi Mix 2s,[Polaris],gambarvivos1pro.jpg
+Mi Mix 3,[Perseus],gambarvivos1pro.jpg
+Mi Note 2,[Scorpio],gambarvivos1pro.jpg
+Mi Note 3,[Jason],gambarvivos1pro.jpg
+Pocophone F1,[Beryllium],gambarvivos1pro.jpg
+Pocophone M3,[Citrus],gambarvivos1pro.jpg
+Redmi 3 Pro,[Ido],gambarvivos1pro.jpg
+Redmi 3S | 3X,[Land],gambarvivos1pro.jpg
+Redmi 4,[Prada],gambarvivos1pro.jpg
+Redmi 4 Prime | Pro,[Markw],gambarvivos1pro.jpg
+Redmi 4A,[Rolex],gambarvivos1pro.jpg
+Redmi 4X,[Santony],gambarvivos1pro.jpg
+Redmi 5A,[Riva],gambarvivos1pro.jpg
+Redmi Go,[Tiare],gambarvivos1pro.jpg
+Redmi 5,[Rosy],gambarvivos1pro.jpg
+Redmi 5 Plus,[Vince],gambarvivos1pro.jpg
+Redmi 6 Pro,[Sakura],gambarvivos1pro.jpg
+Redmi 6 Pro India,[Sakura india],gambarvivos1pro.jpg
+Redmi 7A,[Pine],gambarvivos1pro.jpg
+Redmi 8,[Olive],gambarvivos1pro.jpg
+Redmi 8A,[Olivelite],gambarvivos1pro.jpg
+Redmi 8A Pro,[OliveLwood],gambarvivos1pro.jpg
+Redmi 9 Power,[Lime],gambarvivos1pro.jpg
+Redmi 9T,[Lime],gambarvivos1pro.jpg
+Redmi S2,[Ysl],gambarvivos1pro.jpg
+Redmi Note 3 Pro,[Kenzo],gambarvivos1pro.jpg
+Redmi Note 4X,[Mido],gambarvivos1pro.jpg
+Redmi Note 5 Pro,[Whyred],gambarvivos1pro.jpg
+Redmi Note 5A,[Ugglite],gambarvivos1pro.jpg
+Redmi Note 5A Prime,[Ugg],gambarvivos1pro.jpg
+Redmi Note 6 Pro,[Tulip],gambarvivos1pro.jpg
+Redmi Note 7,[Lavender],gambarvivos1pro.jpg
+Redmi Note 8,[Gingko],gambarvivos1pro.jpg
+Redmi Note 8T,[Willow],gambarvivos1pro.jpg
+Redmi Note 9 4G,[Lime],gambarvivos1pro.jpg
+Redmi Note 10,[Mojito],gambarvivos1pro.jpg
