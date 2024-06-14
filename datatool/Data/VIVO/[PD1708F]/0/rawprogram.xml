@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" ?>
+<data>
+<!--NOTE: Genererate by HadiK IT **-->
+<program SECTOR_SIZE_IN_BYTES="512" file_sector_offset="0" filename="config.img" label="config" num_partition_sectors="64" physical_partition_number="0" start_sector="9702400"/>
+</data>
