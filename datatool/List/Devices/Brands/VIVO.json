@@ -1,0 +1,1003 @@
+[
+	{
+		"Devices": "VIVO Nex 2",
+		"Models": "[PD1821F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Nex 3",
+		"Models": "[PD1924F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Nex A",
+		"Models": "[PD1806]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Nex S",
+		"Models": "[PD1805F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO S1 Prime",
+		"Models": "[PD1945GF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO S1 Pro",
+		"Models": "[PD1945F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO S5",
+		"Models": "[PD1932]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO T1",
+		"Models": "[PD2115]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO U1",
+		"Models": "[PD1818]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO U20",
+		"Models": "[PD1941F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO U3",
+		"Models": "[PD1941]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO U3X | U10",
+		"Models": "[PD1928F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V1",
+		"Models": "[PD1502F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V1 Max",
+		"Models": "[PD1503F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V11 Pro",
+		"Models": "[PD1814F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V15 Pro",
+		"Models": "[PD1832F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V17",
+		"Models": "[PD1948F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V17 Pro",
+		"Models": "[PD1931F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V19",
+		"Models": "[PD1969F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V19 Neo",
+		"Models": "[PD1948F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V20",
+		"Models": "[PD2039F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V20 2021",
+		"Models": "[PD2067F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V20 Pro",
+		"Models": "[PD2020F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V20 SE",
+		"Models": "[PD2038F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V21 4G | V21E 4G",
+		"Models": "[PD2107F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V3",
+		"Models": "[PD1524F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V3 Max",
+		"Models": "[PD1523F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V5 Plus",
+		"Models": "[PD1624F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V7 Plus",
+		"Models": "[PD1708F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V9",
+		"Models": "[PD1730F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V9 China",
+		"Models": "[PD1730D]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V9 Pro",
+		"Models": "[PD1730CF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO V9 Youth",
+		"Models": "[PD1730BF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X20",
+		"Models": "[PD1709F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X20 Plus",
+		"Models": "[PD1710F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X21",
+		"Models": "[PD1728F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X23 [SDM670]",
+		"Models": "[PD1809]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X23 [SDM710]",
+		"Models": "[PD1809]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X27",
+		"Models": "[PD1829]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X5",
+		"Models": "[PD1401F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X5 Max",
+		"Models": "[PD1408F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X5 Pro",
+		"Models": "[PD1421F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X50",
+		"Models": "[PD2006F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X50 5G",
+		"Models": "[PD2001F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X50 Lite",
+		"Models": "[PD1928F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X50 Pro 5G",
+		"Models": "[PD2005F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X60",
+		"Models": "[PD2046F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X60 Pro",
+		"Models": "[PD2059F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X7",
+		"Models": "[PD1602]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO X7 Plus",
+		"Models": "[PD1603]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Xplay 3S",
+		"Models": "[PD1303F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Xshot",
+		"Models": "[PD1302F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y11 | Y12i",
+		"Models": "[PD1930F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y11S",
+		"Models": "[PD2042F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y12A | Y12S",
+		"Models": "[PD2060F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y20 | Y20I | Y20S",
+		"Models": "[PD2034F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y20A",
+		"Models": "[PD2060F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y20T",
+		"Models": "[PD2093F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y21L",
+		"Models": "[PD1309F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y25",
+		"Models": "[PD1309F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y27",
+		"Models": "[PD1410F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y31 2021",
+		"Models": "[PD2050F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y31L",
+		"Models": "[PD1505F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y35",
+		"Models": "[PD1502F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y37",
+		"Models": "[PD1503F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y50T 2021",
+		"Models": "[PD2023E]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y51 2020",
+		"Models": "[PD2044F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y51 | Y51L",
+		"Models": "[PD1510F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y51A | Y51S",
+		"Models": "[PD2050F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y52S",
+		"Models": "[PD2106]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y53",
+		"Models": "[PD1628F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y55 | Y55L",
+		"Models": "[PD1613F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y55S",
+		"Models": "[PD1613BF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y65",
+		"Models": "[PD1621BF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y70",
+		"Models": "[PD2038F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y71",
+		"Models": "[PD1731F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y85",
+		"Models": "[PD1730BF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y91",
+		"Models": "[PD1818EF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y93 | Y95",
+		"Models": "[PD1818F-BF]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Y9S",
+		"Models": "[PD1945F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Z1 Pro",
+		"Models": "[PD1911F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Z5i",
+		"Models": "[PD1941]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO Z5x",
+		"Models": "[PD1911F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO",
+		"Models": "[PD1824]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO 3",
+		"Models": "[PD1955F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO 5",
+		"Models": "[PD2024]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO 5 Pro",
+		"Models": "[PD2025]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO 7",
+		"Models": "[PD2055F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO 7 Legend",
+		"Models": "[PD2049F]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO Neo",
+		"Models": "[PD1936]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO Neo 3 5G",
+		"Models": "[PD1981]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO Pro",
+		"Models": "[PD1916]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO U1",
+		"Models": "[PD2023]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO U1X",
+		"Models": "[PD2065]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO U3X",
+		"Models": "[PD2106]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "VIVO iQOO Z1X",
+		"Models": "[PD2012]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
+		"Devices": "vivo S1",
+		"Models": "PD1913F",
+		"Platform": "MT6885",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo V11",
+		"Models": "PD1813F",
+		"Platform": "Mediatek MT6771 Helio P70",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo V15",
+		"Models": "PD1831F",
+		"Platform": "Mediatek MT6771 Helio P70",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo V21",
+		"Models": "PD2083F",
+		"Platform": "MT6853",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo V23 5G",
+		"Models": "PD2167F",
+		"Platform": "MT6877",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo V3MA",
+		"Models": "PD1524B",
+		"Platform": "MT6750",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo V5S",
+		"Models": "PD1612DF",
+		"Platform": "MT6750",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y01",
+		"Models": "PD2140F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y02s",
+		"Models": "PD2216F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y12",
+		"Models": "PD1901EF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y12S",
+		"Models": "PD2036F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y15",
+		"Models": "PD1901BF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y15A",
+		"Models": "PD2140IF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y15s",
+		"Models": "PD2140F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y16",
+		"Models": "PD2216LF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y17",
+		"Models": "PD1901F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y19",
+		"Models": "PD1934F",
+		"Platform": "MT6768",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y1S",
+		"Models": "PD2014F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y20",
+		"Models": "PD2036DF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y20G",
+		"Models": "PD2066F",
+		"Platform": "MT6768",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y20s",
+		"Models": "PD2066BF",
+		"Platform": "MT6768",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y21",
+		"Models": "PD2139F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y21A",
+		"Models": "PD2139JF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y22",
+		"Models": "PD2226F",
+		"Platform": "Mediatek MT6768 Helio G85",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y30",
+		"Models": "PD1987F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y30i",
+		"Models": "PD1987BF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y33s",
+		"Models": "V2109",
+		"Platform": "MT6768",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y3S",
+		"Models": "PD2074F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y53s NFC",
+		"Models": "V2111A",
+		"Platform": "MT6768",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y67",
+		"Models": "PD1612",
+		"Platform": "MT6750",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y69",
+		"Models": "PD1705F",
+		"Platform": "MT6750",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y81",
+		"Models": "PD1732CF",
+		"Platform": "MT6761",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y83",
+		"Models": "PD1803F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y85",
+		"Models": "PD1803F",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y90",
+		"Models": "PD1917F",
+		"Platform": "MT6761",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	},
+	{
+		"Devices": "vivo Y91",
+		"Models": "PD1816",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y91",
+		"Models": "PD1818GF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y91C",
+		"Models": "PD1818CF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y91C",
+		"Models": "PD1818HF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y91i",
+		"Models": "PD1818GF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y93",
+		"Models": "PD1818CF",
+		"Platform": "Mediatek MT6765 Helio P35",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo Y97",
+		"Models": "PD1813",
+		"Platform": "Mediatek MT6771 Helio P70",
+		"Conn": "Auto",
+		"Broom": "Brom",
+		"New": "New Security"
+	},
+	{
+		"Devices": "vivo iQOO Z1 5G",
+		"Models": "PD1986A",
+		"Platform": "MT6885",
+		"Conn": "Auto",
+		"Broom": "Brom"
+	}
+]
