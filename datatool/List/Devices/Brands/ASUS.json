@@ -1,5 +1,12 @@
 [
 	{
+		"Devices": "ASUS TEST ",
+		"Models": "[TEST]",
+		"Platform": "Qualcomm",
+		"Conn": "Auto",
+		"Broom": "EDL"
+	},
+	{
 		"Devices": "ASUS ASUS Live L1 ",
 		"Models": "[X00RD]",
 		"Platform": "Qualcomm",
